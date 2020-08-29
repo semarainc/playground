@@ -1,2 +1,2 @@
 # playground
-Dektop web based game launcher
+Desktop web based game launcher
