@@ -1,0 +1,27 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "Desktop game launcher",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rehre/playground.git"
+  },
+  "keywords": [
+    "Electron",
+    "Javascript",
+    "React"
+  ],
+  "author": "Akmal Maulana Azzam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rehre/playground/issues"
+  },
+  "homepage": "https://github.com/Rehre/playground#readme",
+  "devDependencies": {
+    "electron": "^10.1.0"
+  }
+}
